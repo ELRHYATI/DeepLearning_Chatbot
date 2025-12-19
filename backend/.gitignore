@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+*.cover
+.hypothesis/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables
+.env
+.env.local
+
+# ChromaDB
+chroma_db/
+chroma_test/
+
+# Uploads
+uploads/
+chat_uploads/
+processed_documents/
+
+# Logs
+*.log
+hs_err_pid*.log
+replay_pid*.log
+*.log.*
+# Java crash logs
+hs_err_pid*.log
+replay_pid*.log
+# LanguageTool logs
+language_tool*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test database
+test_chatbot.db
+

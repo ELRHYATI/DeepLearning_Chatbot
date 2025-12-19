@@ -1,0 +1,28 @@
+{
+  "1_qa": [
+    {
+      "user_id": "1",
+      "task_type": "qa",
+      "feedback_type": "positive",
+      "rating": 4.0,
+      "comment": null,
+      "metadata": {
+        "question": "C'est quoi LLM ",
+        "answer_length": 303,
+        "confidence": 0.55,
+        "rag_used": true,
+        "domain": "general",
+        "sources_count": 4,
+        "generation_params": {
+          "top_k": 3,
+          "handle_impossible_answer": true,
+          "max_answer_length": 200,
+          "max_question_length": 128,
+          "max_seq_length": 512,
+          "doc_stride": 128
+        }
+      },
+      "timestamp": "2025-12-11T14:26:31.030430"
+    }
+  ]
+}

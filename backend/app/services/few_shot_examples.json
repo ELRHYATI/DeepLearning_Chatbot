@@ -1,0 +1,77 @@
+{
+  "qa_sciences": [
+    {
+      "question": "Qu'est-ce que la photosynthèse?",
+      "context": "La photosynthèse est le processus par lequel les plantes convertissent la lumière en énergie.",
+      "answer": "La photosynthèse est un processus biologique fondamental par lequel les plantes, les algues et certaines bactéries convertissent l'énergie lumineuse en énergie chimique utilisable. Ce processus utilise le dioxyde de carbone (CO2) et l'eau (H2O) pour produire du glucose (C6H12O6) et de l'oxygène (O2) comme sous-produit."
+    },
+    {
+      "question": "Comment fonctionne la respiration cellulaire?",
+      "context": "La respiration cellulaire produit de l'ATP à partir du glucose.",
+      "answer": "La respiration cellulaire est le processus par lequel les cellules produisent de l'énergie (ATP) à partir du glucose et d'autres molécules organiques. Elle se déroule en trois étapes principales : la glycolyse dans le cytoplasme, le cycle de Krebs dans la matrice mitochondriale, et la chaîne de transport d'électrons dans la membrane interne des mitochondries."
+    },
+    {
+      "question": "Comment fonctionne la respiration cellulaire?",
+      "context": "La respiration cellulaire produit de l'ATP.",
+      "answer": "La respiration cellulaire est le processus par lequel les cellules produisent de l'énergie ATP à partir du glucose."
+    },
+    {
+      "question": "Comment fonctionne la respiration cellulaire?",
+      "context": "La respiration cellulaire produit de l'ATP.",
+      "answer": "La respiration cellulaire est le processus par lequel les cellules produisent de l'énergie ATP à partir du glucose."
+    }
+  ],
+  "qa_littérature": [
+    {
+      "question": "Qu'est-ce que le romantisme en littérature?",
+      "context": "Le romantisme est un mouvement littéraire du 19e siècle.",
+      "answer": "Le romantisme est un mouvement littéraire et artistique qui émerge en Europe à la fin du 18e siècle et domine le 19e siècle. Il privilégie l'expression des sentiments, l'individualité, l'imagination, et la nature. Les romantiques rejettent le rationalisme des Lumières et valorisent l'émotion, le mystère, et le sublime."
+    }
+  ],
+  "reformulation_academic_sciences": [
+    {
+      "original": "Les chercheurs ont trouvé quelque chose d'important.",
+      "reformulated": "Les chercheurs ont identifié des résultats significatifs dans le cadre de cette étude."
+    },
+    {
+      "original": "C'est une bonne idée pour améliorer les choses.",
+      "reformulated": "Cette approche présente un potentiel considérable pour l'optimisation des processus."
+    },
+    {
+      "original": "On a fait des tests et ça marche bien.",
+      "reformulated": "Les expérimentations menées ont démontré l'efficacité de cette méthode."
+    }
+  ],
+  "reformulation_academic_littérature": [
+    {
+      "original": "L'auteur parle de l'amour dans son livre.",
+      "reformulated": "L'auteur explore la thématique de l'amour à travers son œuvre littéraire."
+    },
+    {
+      "original": "Le personnage principal est triste.",
+      "reformulated": "Le protagoniste manifeste une profonde mélancolie tout au long du récit."
+    }
+  ],
+  "reformulation_paraphrase": [
+    {
+      "original": "L'intelligence artificielle transforme notre société.",
+      "reformulated": "L'IA révolutionne actuellement les structures sociales contemporaines."
+    },
+    {
+      "original": "Les étudiants doivent étudier régulièrement pour réussir.",
+      "reformulated": "Pour obtenir de bons résultats, les apprenants doivent consacrer du temps à leurs études de manière constante."
+    }
+  ],
+  "summarization_sciences": [
+    {
+      "original": "La photosynthèse est un processus complexe qui se déroule en plusieurs étapes. D'abord, les plantes absorbent la lumière solaire grâce à la chlorophylle. Ensuite, cette énergie est utilisée pour convertir le CO2 et l'eau en glucose. Le processus produit également de l'oxygène comme sous-produit.",
+      "summary": "La photosynthèse convertit la lumière solaire en énergie chimique, transformant le CO2 et l'eau en glucose tout en libérant de l'oxygène."
+    }
+  ],
+  "plan_academic_sciences": [
+    {
+      "topic": "L'impact de l'intelligence artificielle sur l'éducation",
+      "plan": "I. Introduction\n   A. Accroche (contexte actuel de l'IA)\n   B. Problématique (Comment l'IA transforme-t-elle l'éducation?)\n   C. Annonce du plan\n\nII. Développement\n   A. Les applications de l'IA dans l'éducation\n      1. Apprentissage personnalisé\n      2. Automatisation des tâches administratives\n   B. Les défis et limites\n      1. Questions éthiques\n      2. Inégalités d'accès\n   C. Les perspectives d'avenir\n      1. Évolution des méthodes pédagogiques\n      2. Préparation des étudiants\n\nIII. Conclusion\n   A. Synthèse des points clés\n   B. Ouverture (réflexion sur l'avenir)"
+    }
+  ]
+}

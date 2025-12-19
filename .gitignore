@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.db
+*.sqlite
+*.sqlite3
+
+# Node
+node_modules/
+dist/
+build/
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+uploads/
+chroma_db/
+*.pdf
+*.docx
+*.txt
+
+# Models cache
+.cache/
+models/
+
+# Logs
+logs/
+*.log
+backend/logs/
+hs_err_pid*.log
+replay_pid*.log
+backend/hs_err_pid*.log
+backend/replay_pid*.log
+
